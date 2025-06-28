@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-namespace EnergyEexerciseExample
+namespace EnergyExerciseExample
 {
     class Program
     {
