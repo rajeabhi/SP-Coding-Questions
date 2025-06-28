@@ -7,8 +7,6 @@ namespace EnergyEexerciseExample
     {
         static void Main(string[] args)
         {
-            // See https://aka.ms/new-console-template for more information
-
             try
             {
                 // Read and validate first line
