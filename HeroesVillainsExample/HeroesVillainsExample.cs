@@ -9,12 +9,11 @@ namespace HeroVillainExample
             bool runAgain = true;
             while (runAgain)
             {
-                Console.Clear();
                 Console.WriteLine("\nWelcome to the Heroes vs Villains Battle Simulator!");
                 Console.WriteLine("You will need to enter the following values:");
-                Console.WriteLine("1. Number of Heroes (M)");
-                Console.WriteLine("2. Health of each Hero (H)");
-                Console.WriteLine("3. Number of Villains (N)");
+                Console.WriteLine("1. Number of Villains (N)");
+                Console.WriteLine("2. Number of Heroes (M)");
+                Console.WriteLine("3. Health of each Hero (H)");
                 Console.WriteLine("4. Health of each Villain (one per line, total of N values)");
                 Console.WriteLine("--------------------------------------------------------");
 
@@ -23,7 +22,15 @@ namespace HeroVillainExample
 
                 try
                 {
-                    // 1. Read Number of Heroes (M)
+                    // 1. Read Number of Villains (N)
+                    Console.Write("Enter the number of villains (N): ");
+                    if (!int.TryParse(Console.ReadLine(), out N) || N < 1)
+                    {
+                        Console.WriteLine("Error: Please enter a positive integer for N!");
+                        continue;
+                    }
+
+                    // 2. Read Number of Heroes (M)
                     Console.Write("Enter the number of heroes (M): ");
                     if (!int.TryParse(Console.ReadLine(), out M) || M < 1)
                     {
@@ -31,19 +38,11 @@ namespace HeroVillainExample
                         continue;
                     }
 
-                    // 2. Read Health of each Hero (H)
+                    // 3. Read Health of each Hero (H)
                     Console.Write("Enter the health of each hero (H): ");
                     if (!int.TryParse(Console.ReadLine(), out H) || H < 1)
                     {
                         Console.WriteLine("Error: Please enter a positive integer for H!");
-                        continue;
-                    }
-
-                    // 3. Read Number of Villains (N)
-                    Console.Write("Enter the number of villains (N): ");
-                    if (!int.TryParse(Console.ReadLine(), out N) || N < 1)
-                    {
-                        Console.WriteLine("Error: Please enter a positive integer for N!");
                         continue;
                     }
 
@@ -114,9 +113,9 @@ namespace HeroVillainExample
                 }
 
                 // 7. Ask if user wants to run again
-                Console.Write("\nDo you want to run the program again? (Y/N): ");
+                Console.Write("\nDo you want to run the program again? (yes/no): ");
                 string userChoice = Console.ReadLine().Trim().ToLower();
-                if (userChoice != "y" && userChoice != "Y")
+                if (userChoice != "yes")
                 {
                     runAgain = false;
                     Console.WriteLine("\nThank you for using the Heroes vs Villains Battle Simulator!");

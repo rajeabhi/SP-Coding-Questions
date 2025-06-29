@@ -1,0 +1,15 @@
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\HeroesVillainsExample\HeroesVillainsExample\bin\Debug\net8.0\HeroesVillainsExample.exe
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\HeroesVillainsExample\HeroesVillainsExample\bin\Debug\net8.0\HeroesVillainsExample.deps.json
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\HeroesVillainsExample\HeroesVillainsExample\bin\Debug\net8.0\HeroesVillainsExample.runtimeconfig.json
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\HeroesVillainsExample\HeroesVillainsExample\bin\Debug\net8.0\HeroesVillainsExample.dll
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\HeroesVillainsExample\HeroesVillainsExample\bin\Debug\net8.0\HeroesVillainsExample.pdb
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\HeroesVillainsExample\HeroesVillainsExample\obj\Debug\net8.0\HeroesVillainsExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\HeroesVillainsExample\HeroesVillainsExample\obj\Debug\net8.0\HeroesVillainsExample.AssemblyInfoInputs.cache
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\HeroesVillainsExample\HeroesVillainsExample\obj\Debug\net8.0\HeroesVillainsExample.AssemblyInfo.cs
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\HeroesVillainsExample\HeroesVillainsExample\obj\Debug\net8.0\HeroesVillainsExample.csproj.CoreCompileInputs.cache
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\HeroesVillainsExample\HeroesVillainsExample\obj\Debug\net8.0\HeroesVillainsExample.sourcelink.json
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\HeroesVillainsExample\HeroesVillainsExample\obj\Debug\net8.0\HeroesVillainsExample.dll
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\HeroesVillainsExample\HeroesVillainsExample\obj\Debug\net8.0\refint\HeroesVillainsExample.dll
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\HeroesVillainsExample\HeroesVillainsExample\obj\Debug\net8.0\HeroesVillainsExample.pdb
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\HeroesVillainsExample\HeroesVillainsExample\obj\Debug\net8.0\HeroesVillainsExample.genruntimeconfig.cache
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\HeroesVillainsExample\HeroesVillainsExample\obj\Debug\net8.0\ref\HeroesVillainsExample.dll
