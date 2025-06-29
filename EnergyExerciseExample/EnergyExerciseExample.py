@@ -1,6 +1,6 @@
 def calculate_energy(E, N, drains):
     if len(drains) < N:
-        print(-1)
+        print("Total exercises done:", -1)
         return
     
     sorted_drains = sorted(drains, reverse=True)
@@ -12,13 +12,14 @@ def calculate_energy(E, N, drains):
             energy -= drain
             count += 1
             if energy <= 0:
-                print(count)
+                print("Total exercises done:", count)
                 return
     if energy > 0:
-        print(-1)
+        print("Total exercises done:", -1)
 
 def main():
     try:
+        print("Enter Energy and Exercise Count (Number only) separated by space. :")
         # Read and validate first line
         first_line = input().strip().split()
         if len(first_line) != 2:
@@ -37,6 +38,7 @@ def main():
             print("Invalid input: Energy and exercise count must be positive.")
             return
         
+        print("Enter Exercise Drains (Number only) separated by space. :")
         # Read and validate second line
         second_line = input().strip().split()
         if len(second_line) != N:

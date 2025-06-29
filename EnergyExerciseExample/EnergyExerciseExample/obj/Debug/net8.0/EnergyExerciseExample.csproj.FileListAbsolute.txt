@@ -1,0 +1,15 @@
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\EnergyExerciseExample\EnergyExerciseExample\bin\Debug\net8.0\EnergyExerciseExample.exe
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\EnergyExerciseExample\EnergyExerciseExample\bin\Debug\net8.0\EnergyExerciseExample.deps.json
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\EnergyExerciseExample\EnergyExerciseExample\bin\Debug\net8.0\EnergyExerciseExample.runtimeconfig.json
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\EnergyExerciseExample\EnergyExerciseExample\bin\Debug\net8.0\EnergyExerciseExample.dll
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\EnergyExerciseExample\EnergyExerciseExample\bin\Debug\net8.0\EnergyExerciseExample.pdb
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\EnergyExerciseExample\EnergyExerciseExample\obj\Debug\net8.0\EnergyExerciseExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\EnergyExerciseExample\EnergyExerciseExample\obj\Debug\net8.0\EnergyExerciseExample.AssemblyInfoInputs.cache
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\EnergyExerciseExample\EnergyExerciseExample\obj\Debug\net8.0\EnergyExerciseExample.AssemblyInfo.cs
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\EnergyExerciseExample\EnergyExerciseExample\obj\Debug\net8.0\EnergyExerciseExample.csproj.CoreCompileInputs.cache
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\EnergyExerciseExample\EnergyExerciseExample\obj\Debug\net8.0\EnergyExerciseExample.sourcelink.json
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\EnergyExerciseExample\EnergyExerciseExample\obj\Debug\net8.0\EnergyExerciseExample.dll
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\EnergyExerciseExample\EnergyExerciseExample\obj\Debug\net8.0\refint\EnergyExerciseExample.dll
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\EnergyExerciseExample\EnergyExerciseExample\obj\Debug\net8.0\EnergyExerciseExample.pdb
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\EnergyExerciseExample\EnergyExerciseExample\obj\Debug\net8.0\EnergyExerciseExample.genruntimeconfig.cache
+F:\Practice\DotNet\SP-Coding-Questions\SP-Coding-Questions\EnergyExerciseExample\EnergyExerciseExample\obj\Debug\net8.0\ref\EnergyExerciseExample.dll
